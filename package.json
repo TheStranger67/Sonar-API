@@ -29,7 +29,7 @@
     "@fnando/cnpj": "^0.1.1",
     "@fnando/cpf": "^0.1.1",
     "adonis-lucid-filter": "^1.0.4",
-    "aws-sdk": "^2.524.0",
+    "aws-sdk": "^2.814.0",
     "mysql": "^2.17.1",
     "uuid": "^3.3.3"
   },
